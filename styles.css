@@ -1,0 +1,36 @@
+body{
+  /* background: radial-gradient(#9696e4,#4545ee); */
+  font-size: 1.2em;
+  width: 50%;
+  margin: 0px auto;
+  padding: 0px;
+  text-align: center;
+  min-height: 50vh;
+}
+/* #list{
+  background:lightcyan;
+  border-radius: 10px;
+  text-align: left;
+} */
+#table{
+  background:lightcyan;
+  border-radius: 10px;
+  text-align: left;
+  width: 100%;
+}
+li{
+  padding: 15px;
+}
+li:hover,svg:hover{
+  cursor: pointer;
+}
+#icon{
+  display:flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+.navy{
+  display:flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
